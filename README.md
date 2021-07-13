@@ -1,1 +1,1 @@
-# WebpackPractice
+# curso-webpack
